@@ -1,2 +1,1 @@
-majyo1
-
+majyo
